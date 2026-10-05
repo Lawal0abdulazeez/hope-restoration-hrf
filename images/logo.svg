@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Hope Restoration and Health Relief Foundation Logo">
+  <defs>
+    <linearGradient id="hopeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d9488;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f766e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#14b8a6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d9488;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Outer circle -->
+  <circle cx="100" cy="100" r="95" fill="url(#hopeGrad)" />
+  <circle cx="100" cy="100" r="85" fill="#ffffff" />
+  <!-- Heart shape -->
+  <path d="M100 145 C70 115, 45 95, 45 70 C45 50, 60 40, 75 40 C85 40, 95 48, 100 58 C105 48, 115 40, 125 40 C140 40, 155 50, 155 70 C155 95, 130 115, 100 145 Z" fill="url(#heartGrad)" />
+  <!-- Small cross / plus for health -->
+  <rect x="92" y="72" width="16" height="36" rx="3" fill="#ffffff" />
+  <rect x="82" y="82" width="36" height="16" rx="3" fill="#ffffff" />
+  <!-- Subtle rays / hope -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#ccfbf1" stroke-width="2" opacity="0.5" />
+</svg>
