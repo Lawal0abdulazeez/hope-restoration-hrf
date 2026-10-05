@@ -1,6 +1,6 @@
 # Hope Restoration and Health Relief Foundation
 
-Official website for **Hope Restoration and Health Relief Foundation** — a healthcare support organisation based in Lagos, Nigeria.
+Official website for **Hope Restoration and Health Relief Foundation**, a healthcare support organisation based in Ogun State, Abeokuta, Nigeria.
 
 ## About the Project
 
@@ -10,14 +10,21 @@ A clean, modern, fully responsive static website showcasing the Foundation’s m
 - Manager: Adebayo Elijah  
 - Phone: 0706 871 9591  
 - Email: elijah.adebayo@hoperestorationhrf.org  
-- Location: Lagos, Nigeria  
+- Location: Ogun State, Abeokuta, Nigeria  
 
 ## Pages
 
-- **Home** – Hero, services overview, mission, stats  
-- **About** – Who we are, history timeline, values, team  
-- **News** – Latest updates and stories  
-- **Contact** – Contact details + enquiry form  
+- **Home**: Hero, services overview, mission, stats  
+- **About**: Who we are, history timeline, values, team  
+- **News**: Latest updates and stories  
+- **Contact**: Contact details and enquiry form  
+
+## Official Letterhead (Word / DOCX)
+
+Official stationery files are included in the repository for corporate correspondence, proposals, and official notices:
+- `Hope_Restoration_HRF_Letterhead.docx`: Pre-formatted official letterhead template with sample formal correspondence layout, reference number, date, and executive sign-off block.
+- `Hope_Restoration_HRF_Blank_Letterhead.docx`: Blank canvas letterhead with the official logo, header, dual accent lines, and footer, ready for instant typing.
+- `images/letterhead_preview.png`: Visual layout preview of the letterhead.
 
 ## Tech Stack
 
