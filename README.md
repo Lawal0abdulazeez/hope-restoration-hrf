@@ -19,12 +19,20 @@ A clean, modern, fully responsive static website showcasing the Foundation’s m
 - **News**: Latest updates and stories  
 - **Contact**: Contact details and enquiry form  
 
-## Official Letterhead (Word / DOCX)
+## Official Letterhead (DOCX & PDF)
 
 Official stationery files are included in the repository for corporate correspondence, proposals, and official notices:
-- `Hope_Restoration_HRF_Letterhead.docx`: Pre-formatted official letterhead template with sample formal correspondence layout, reference number, date, and executive sign-off block.
-- `Hope_Restoration_HRF_Blank_Letterhead.docx`: Blank canvas letterhead with the official logo, header, dual accent lines, and footer, ready for instant typing.
+- `Hope_Restoration_HRF_Letterhead.docx`: Pre-formatted official letterhead template (Word) with sample formal correspondence layout, reference number, date, and executive sign-off block.
+- `Hope_Restoration_HRF_Blank_Letterhead.docx`: Blank canvas letterhead (Word) with the official logo, header, dual accent lines, and footer, ready for instant typing.
+- `Hope_Restoration_HRF_Letterhead.pdf`: Print-ready PDF version of the official correspondence template.
+- `Hope_Restoration_HRF_Blank_Letterhead.pdf`: Print-ready PDF version of the blank stationery.
 - `images/letterhead_preview.png`: Visual layout preview of the letterhead.
+
+## Contact Form & Email Integration
+
+The website contact form supports:
+1. **Direct Web Submission**: Submits enquiries directly to `elijah.adebayo@hoperestorationhrf.org` via FormSubmit with real-time delivery confirmation.
+2. **Direct Email App Launcher (`mailto`)**: A dedicated *"Open in Email App"* button automatically composes a pre-formatted email in Gmail, Outlook, or the visitor's default email client addressed to `elijah.adebayo@hoperestorationhrf.org`.
 
 ## Tech Stack
 
